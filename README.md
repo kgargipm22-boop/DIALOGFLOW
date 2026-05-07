@@ -25,7 +25,7 @@ Dialogflow is a conversational AI platform by Google that helps developers creat
 
 ### 3. TRAINING PHRASES
 
-![Google Form](TRAINING PHRASES.png)
+![Google Form](TRAININGPHRASES.png)
 
 ---
 
